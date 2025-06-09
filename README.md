@@ -48,6 +48,8 @@ Este projeto implementa um sintetizador de áudio para a placa BitDogLab (Raspbe
 6. Durante a reprodução, a forma de onda do áudio é exibida no display OLED
 7. Pressione o botão B novamente para interromper a reprodução
 
+
+Um vídeo de demonstração do sintetizador pode ser visto no seguinte link: https://youtube.com/shorts/9HnHQZs3BQg
 ## Compilação
 
 Para compilar o projeto:
@@ -78,3 +80,8 @@ O arquivo UF2 será gerado em `build/audio_synthesizer.uf2`. Copie este arquivo 
 - Taxa de amostragem e processamento de sinais
 - Armazenamento e manipulação de dados em buffer
 - Interface de usuário com feedback visual
+
+---
+
+## 📜 Licença
+MIT License - MIT GPL-3.0.
